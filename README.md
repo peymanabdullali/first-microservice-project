@@ -1,0 +1,1 @@
+here I am writing a simple project with microservice architecture. at the end of the project, there will be two microservices and these services will communicate with each other with rabbitmg. In addition, there will be a config server, eureka server, api gateway. in the end, I will add security and create documentation with openapi
